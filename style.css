@@ -1,0 +1,53 @@
+::placeholder {
+    color: black;
+    font-size: 20px;
+}
+
+input {
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+text {
+    font-size: 50px;
+}
+
+button {
+    font-size: 20px
+}
+
+#MYHEADER {
+    text-align: center;
+}
+
+repeat-password {
+    font-size: 20px;
+    padding-right: 50px;
+}
+
+text {
+    padding-right: 50px;
+    border-right: 50px;
+}
+
+VRAJALAL {
+    font-size: medium
+}
+
+#repeat-password {
+    padding-right: 50px;
+    padding-right: 40px;
+}
+
+::placeholder{
+    padding-right: 50px;
+}
+
+#date {
+    color: darkblue;
+}
+
+#password {
+    padding-right: 40px;
+    padding-bottom: 10px;
+}
